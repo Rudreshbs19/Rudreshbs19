@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Rudresh
 
-<!--
-**Rudreshbs19/Rudreshbs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer (Fresher) passionate about Cloud & Automation  
 
-Here are some ideas to get you started:
+🌱 Currently learning and practicing DevOps tools with real projects  
+🔧 Focused on AWS, CI/CD, Docker, Linux & Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Cloud:** AWS (EC2, S3, IAM – Basics)
+- **DevOps:** Git, GitHub, Jenkins, Docker
+- **OS:** Linux (Basics)
+- **IaC & Automation:** Terraform (Beginner), Shell Scripting (Basics)
+- **Monitoring:** Prometheus & Grafana (Beginner)
+
+---
+
+## 📌 DevOps Projects
+🔹 **BookMyShow DevOps Automation**  
+- CI/CD using Jenkins  
+- Dockerized application  
+- Deployed on AWS EC2  
+
+🔹 **Address Book Application – DevOps**  
+- GitHub version control  
+- Jenkins pipeline setup  
+- Docker image build & run  
+
+🔹 **AWS 3-Tier Architecture (Practice Project)**  
+- EC2, Security Groups  
+- Load Balancer basics  
+- Manual + scripted setup  
+
+👉 More projects in my repositories ⬇️
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** www.linkedin.com/in/rudresh-bs-b29281391
+- **GitHub:** https://github.com/rudreshbs19
+
+⭐ I’m continuously learning and improving my DevOps skills!
